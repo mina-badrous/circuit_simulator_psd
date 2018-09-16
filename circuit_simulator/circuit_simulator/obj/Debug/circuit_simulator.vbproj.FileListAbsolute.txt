@@ -1,0 +1,10 @@
+C:\Users\BADROUS\Desktop\pyramid system development\assignment\simulation\circuit_simulator\circuit_simulator\bin\Debug\circuit_simulator.exe
+C:\Users\BADROUS\Desktop\pyramid system development\assignment\simulation\circuit_simulator\circuit_simulator\bin\Debug\circuit_simulator.pdb
+C:\Users\BADROUS\Desktop\pyramid system development\assignment\simulation\circuit_simulator\circuit_simulator\bin\Debug\circuit_simulator.xml
+C:\Users\BADROUS\Desktop\pyramid system development\assignment\simulation\circuit_simulator\circuit_simulator\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\BADROUS\Desktop\pyramid system development\assignment\simulation\circuit_simulator\circuit_simulator\obj\Debug\circuit_simulator.Form1.resources
+C:\Users\BADROUS\Desktop\pyramid system development\assignment\simulation\circuit_simulator\circuit_simulator\obj\Debug\circuit_simulator.Resources.resources
+C:\Users\BADROUS\Desktop\pyramid system development\assignment\simulation\circuit_simulator\circuit_simulator\obj\Debug\circuit_simulator.vbproj.GenerateResource.Cache
+C:\Users\BADROUS\Desktop\pyramid system development\assignment\simulation\circuit_simulator\circuit_simulator\obj\Debug\circuit_simulator.exe
+C:\Users\BADROUS\Desktop\pyramid system development\assignment\simulation\circuit_simulator\circuit_simulator\obj\Debug\circuit_simulator.xml
+C:\Users\BADROUS\Desktop\pyramid system development\assignment\simulation\circuit_simulator\circuit_simulator\obj\Debug\circuit_simulator.pdb
