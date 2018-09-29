@@ -27,6 +27,12 @@
         input.clear = clear_check.Checked()
         If input.clear = True Then
             txt = "High"
+        Else
+            'clear output and display another record
+            clear_output_signal()
+            change_state()
+            'print data on table
+            update_table()
         End If
         clear_check.Text = "Clear " + "(" + txt + ")"
     End Sub
@@ -41,15 +47,13 @@
     End Sub
 
     Private Sub clk_button_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles clk_button.Click
-        'check if Clear is low
-        If input.clear = False Then
-            clear_output_signal()
-        Else
+        'check if Clear is high
+        If input.clear = True Then
             'shift right data
             shift_data_right()
+            'change state of TP12-TP15
+            change_state()
         End If
-        'change state of TP12-TP15
-        change_state()
         'print data on table
         update_table()
 
